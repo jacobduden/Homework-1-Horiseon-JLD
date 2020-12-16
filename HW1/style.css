@@ -46,10 +46,10 @@ a {
     text-decoration: none;
 }
 
-p {
+p aside {
     font-size: 16px;
 }
-
+/* image set to fill width of the page */
 .hero {
     height: 800px;
     width: 100%;
@@ -86,22 +86,6 @@ p {
     background-color: #2589bd;
 }
 
-.aside-style {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.aside-style h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.aside-style img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 .main-points {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,6 +102,22 @@ p {
 .main-points h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.aside-style {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.aside-style h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.aside-style img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 .footer {
