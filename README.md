@@ -28,3 +28,5 @@
 [Repository](https://github.com/jacobduden/Homework-1-Horiseon-JLD)
 
 [Deployed website](https://jacobduden.github.io/Homework-1-Horiseon-JLD/)
+
+[Horiseon's Website](HW1/index.html)
