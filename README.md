@@ -21,7 +21,7 @@
 
 ## Screen shot of website in full functioning order
 
-[horiseon-website](HW1/_D__VSC_Homework1_HW1_index.html.png)
+![horiseon-website](HW1/_D__VSC_Homework1_HW1_index.html.png)
 
 ## Links
 
