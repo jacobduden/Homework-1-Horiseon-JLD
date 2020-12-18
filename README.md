@@ -24,4 +24,3 @@
 ![horiseon-website](HW1/images/_D__VSC_Homework1_HW1_index.html.png)
 
 ## Links
-* 
