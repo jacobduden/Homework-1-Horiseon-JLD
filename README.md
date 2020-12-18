@@ -21,12 +21,10 @@
 
 ## Screen shot of website in full functioning order
 
-![horiseon-website](HW1/_D__VSC_Homework1_HW1_index.html.png)
+![horiseon-website](HW1/images/_D__VSC_Homework1_HW1_index.html.png)
 
 ## Links
 
-[Repository](https://github.com/jacobduden/Homework-1-Horiseon-JLD)
+[Repository](https://github.com/jacobduden/Homework1)
 
-[Deployed website](https://jacobduden.github.io/Homework-1-Horiseon-JLD/)
-
-[Horiseon's Website](HW1/index.html)
+[Deployed website](https://jacobduden.github.io/Homework1/)
